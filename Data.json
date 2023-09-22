@@ -1,0 +1,362 @@
+{
+  "mostPlayedSongs": [
+    {
+      "id": 1,
+      "title": "Despacito",
+      "artist": "Luis Fonsi",
+      "youtubeUrl": "https://youtu.be/kJQP7kiw5Fk?si=GA7NPs0y6myy4D8l",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Luis_Fonsi_Feat._Daddy_Yankee_-_Despacito_%28Official_Single_Cover%29.png"
+    },
+    {
+      "id": 2,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "youtubeUrl": "https://youtu.be/fHI8X4OXluQ?si=4LgIuhYQocMxNb3T",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png"
+    },
+    {
+      "id": 3,
+      "title": "Shape of You",
+      "artist": "ED SHEERAN",
+      "youtubeUrl": "https://youtu.be/JGwWNGJdvx8?si=Wp9zSW3IvoCqFzzV",
+      "imageUrl": "https://images.genius.com/071a819f088609ee9d24b2dba4546b23.1000x1000x1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Dance Monkey",
+      "artist": "Tones and I",
+      "youtubeUrl": "https://youtu.be/q0hyYWKXF0Q?si=Ez8fCufiSo_ZL1lW",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6f7af36ecdc3ed6e0a1f169"
+    },
+    {
+      "id": 5,
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "youtubeUrl": "https://youtu.be/zABLecsR5UE?si=vXQ4XYz_UfBOk_7_",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2"
+    },
+    {
+      "id": 7,
+      "title": "Despacito",
+      "artist": "Luis Fonsi",
+      "youtubeUrl": "https://youtu.be/kJQP7kiw5Fk?si=GA7NPs0y6myy4D8l",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Luis_Fonsi_Feat._Daddy_Yankee_-_Despacito_%28Official_Single_Cover%29.png"
+    },
+    {
+      "id": 8,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "youtubeUrl": "https://youtu.be/fHI8X4OXluQ?si=4LgIuhYQocMxNb3T",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png"
+    },
+    {
+      "id": 9,
+      "title": "Shape of You",
+      "artist": "ED SHEERAN",
+      "youtubeUrl": "https://youtu.be/JGwWNGJdvx8?si=Wp9zSW3IvoCqFzzV",
+      "imageUrl": "https://images.genius.com/071a819f088609ee9d24b2dba4546b23.1000x1000x1.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Dance Monkey",
+      "artist": "Tones and I",
+      "youtubeUrl": "https://youtu.be/q0hyYWKXF0Q?si=Ez8fCufiSo_ZL1lW",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6f7af36ecdc3ed6e0a1f169"
+    },
+    {
+      "id": 6,
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "youtubeUrl": "https://youtu.be/zABLecsR5UE?si=vXQ4XYz_UfBOk_7_",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2"
+    }
+  ],
+  "romanticSongs": [
+    {
+      "id": 11,
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "youtubeUrl": "https://youtu.be/GxldQ9eX2wo",
+      "imageUrl": "https://orangemagazine.ph/wp-content/uploads/2022/06/Stephen-Sanchez-Rolling-Stone-Until-I-Found-You-11th-Music-Video-First-Look.png"
+    },
+    {
+      "id": 12,
+      "title": "Walls",
+      "artist": "Jonas Brothers",
+      "youtubeUrl": "https://youtu.be/7w07MliJixY",
+      "imageUrl": "https://i.ytimg.com/vi/7w07MliJixY/maxresdefault.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Timeless ",
+      "artist": "Taylor Swift",
+      "youtubeUrl": "https://youtu.be/osmzwWw4RYM",
+      "imageUrl": "https://i1.sndcdn.com/artworks-U7lZ6T99xLAM-0-t500x500.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Dial Drunk",
+      "artist": "Noah Kahan",
+      "youtubeUrl": "https://youtu.be/m9Kev73C2cc",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/d8/d9/1fd8d913-444a-df32-c82f-ef8d6193fc4a/23UMGIM78666.rgb.jpg/600x600bf-60.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Daylight",
+      "artist": "David Kushner",
+      "youtubeUrl": "https://youtu.be/MoN9ql6Yymw",
+      "imageUrl": "https://memberdata.s3.amazonaws.com/hi/hitsdd/photos/hitsdd_photo_gal__photo_740197931.png"
+    },
+    {
+      "id": 16,
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "youtubeUrl": "https://youtu.be/GxldQ9eX2wo",
+      "imageUrl": "https://orangemagazine.ph/wp-content/uploads/2022/06/Stephen-Sanchez-Rolling-Stone-Until-I-Found-You-11th-Music-Video-First-Look.png"
+    },
+    {
+      "id": 17,
+      "title": "Walls",
+      "artist": "Jonas Brothers",
+      "youtubeUrl": "https://youtu.be/7w07MliJixY",
+      "imageUrl": "https://i.ytimg.com/vi/7w07MliJixY/maxresdefault.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Timeless ",
+      "artist": "Taylor Swift",
+      "youtubeUrl": "https://youtu.be/osmzwWw4RYM",
+      "imageUrl": "https://i1.sndcdn.com/artworks-U7lZ6T99xLAM-0-t500x500.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Dial Drunk",
+      "artist": "Noah Kahan",
+      "youtubeUrl": "https://youtu.be/m9Kev73C2cc",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/d8/d9/1fd8d913-444a-df32-c82f-ef8d6193fc4a/23UMGIM78666.rgb.jpg/600x600bf-60.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Daylight",
+      "artist": "David Kushner",
+      "youtubeUrl": "https://youtu.be/MoN9ql6Yymw",
+      "imageUrl": "https://memberdata.s3.amazonaws.com/hi/hitsdd/photos/hitsdd_photo_gal__photo_740197931.png"
+    }
+  ],
+  "top10Songs": [
+    {
+      "id": 21,
+      "title": "Heeriye ",
+      "artist": "Arijit Singh",
+      "youtubeUrl": "https://youtu.be/RLzC55ai0eo?si=zn1wMsgkQPB2vw_a",
+      "imageUrl": "https://pagalworld.cool/siteuploads/thumb/sft1/308_resize2x_250x250.webp"
+    },
+    {
+      "id": 22,
+      "title": "Tere Pyaar Mein",
+      "artist": " Arijit & Nikhita Gandhi ",
+      "youtubeUrl": "https://youtu.be/zBlklssMFEo?si=uK8GyJJQcZCAArqg",
+      "imageUrl": "https://c.saavncdn.com/367/Tere-Pyaar-Mein-From-Tu-Jhoothi-Main-Makkaar-Hindi-2023-20230203140532-500x500.jpg"
+    },
+    {
+      "id": 23,
+      "title": "BPraak-Zohrajabeen",
+      "artist": "B Praak",
+      "youtubeUrl": "https://youtu.be/5KkHLDkPcq8?si=xvzTTbOsiUb_VuLe",
+      "imageUrl": "https://i1.sndcdn.com/artworks-IR5rKWf1bvidZ2z0-xtLSlA-t500x500.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Ramaiya Vastavaiya",
+      "artist": "Anirudh ",
+      "youtubeUrl": "https://youtu.be/m3OtL4peEWU?si=5ZaAkri1YEdydbrF",
+      "imageUrl": "https://i.ytimg.com/vi/ohS06vkHjLE/maxresdefault.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Judaiyaan",
+      "artist": "Tanveer Evan",
+      "youtubeUrl": "https://youtu.be/B5aEaY_BNbY?si=CEpS2V5TuKLufKsE",
+      "imageUrl": "https://c.saavncdn.com/895/Judaiyaan-Hindi-2023-20230906130126-500x500.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Heeriye ",
+      "artist": "Arijit Singh",
+      "youtubeUrl": "https://youtu.be/RLzC55ai0eo?si=zn1wMsgkQPB2vw_a",
+      "imageUrl": "https://pagalworld.cool/siteuploads/thumb/sft1/308_resize2x_250x250.webp"
+    },
+    {
+      "id": 27,
+      "title": "Tere Pyaar Mein",
+      "artist": " Arijit & Nikhita Gandhi ",
+      "youtubeUrl": "https://youtu.be/zBlklssMFEo?si=uK8GyJJQcZCAArqg",
+      "imageUrl": "https://c.saavncdn.com/367/Tere-Pyaar-Mein-From-Tu-Jhoothi-Main-Makkaar-Hindi-2023-20230203140532-500x500.jpg"
+    },
+    {
+      "id": 28,
+      "title": "BPraak-Zohrajabeen",
+      "artist": "B Praak",
+      "youtubeUrl": "https://youtu.be/5KkHLDkPcq8?si=xvzTTbOsiUb_VuLe",
+      "imageUrl": "https://i1.sndcdn.com/artworks-IR5rKWf1bvidZ2z0-xtLSlA-t500x500.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Ramaiya Vastavaiya",
+      "artist": "Anirudh ",
+      "youtubeUrl": "https://youtu.be/m3OtL4peEWU?si=5ZaAkri1YEdydbrF",
+      "imageUrl": "https://i.ytimg.com/vi/ohS06vkHjLE/maxresdefault.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Judaiyaan",
+      "artist": "Tanveer Evan",
+      "youtubeUrl": "https://youtu.be/B5aEaY_BNbY?si=CEpS2V5TuKLufKsE",
+      "imageUrl": "https://c.saavncdn.com/895/Judaiyaan-Hindi-2023-20230906130126-500x500.jpg"
+    }
+  ],
+  "kannadaSongs": [
+    {
+      "id": 31,
+      "title": "Singara Siriye",
+      "artist": "Vijay Prakash",
+      "youtubeUrl": "https://youtu.be/3XShkcOze3s?si=9N6wAlHh7w2-rsA4",
+      "imageUrl": "https://1601606126.rsc.cdn77.org/raagaimg/r_img/250/k/k0002714.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Single Sevanthi",
+      "artist": "Indu Nagaraj",
+      "youtubeUrl": "https://youtu.be/Mr4TjvPqV4k?si=jVnA2u-rZLN3Cdr-",
+      "imageUrl": "https://i.ytimg.com/vi/Mr4TjvPqV4k/maxresdefault.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Matinee",
+      "artist": "Vijay Prakash",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_T",
+      "imageUrl": "https://i.ytimg.com/vi/FreN2a9bUMQ/maxresdefault.jpg"
+    },
+    {
+      "id": 34,
+      "title": "Ram Sita Ram",
+      "artist": "Karthik, Sachet Tandon",
+      "youtubeUrl": "https://youtu.be/abADPCOHOpw?si=V1Sc8wrptgDeQmLA",
+      "imageUrl": "https://i.ytimg.com/vi/Tl4bQBfOtbg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhrS2bcHu6mVkaATFGp5rsSXPRyQ"
+    },
+    {
+      "id": 35,
+      "title": "Dash Song",
+      "artist": "Chandan Shetty",
+      "youtubeUrl": "https://youtu.be/qSj5lSGBjQk?si=3riuu-CyOAb_dHqe",
+      "imageUrl": "https://c.saavncdn.com/326/Dash-From-Suthradaari-Kannada-2022-20221226171633-500x500.jpg"
+    },
+    {
+      "id": 36,
+      "title": "Singara Siriye",
+      "artist": "Vijay Prakash",
+      "youtubeUrl": "https://youtu.be/3XShkcOze3s?si=9N6wAlHh7w2-rsA4",
+      "imageUrl": "https://1601606126.rsc.cdn77.org/raagaimg/r_img/250/k/k0002714.jpg"
+    },
+    {
+      "id": 37,
+      "title": "Single Sevanthi",
+      "artist": "Indu Nagaraj",
+      "youtubeUrl": "https://youtu.be/Mr4TjvPqV4k?si=jVnA2u-rZLN3Cdr-",
+      "imageUrl": "https://i.ytimg.com/vi/Mr4TjvPqV4k/maxresdefault.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Matinee",
+      "artist": "Vijay Prakash",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID_T",
+      "imageUrl": "https://i.ytimg.com/vi/FreN2a9bUMQ/maxresdefault.jpg"
+    },
+    {
+      "id": 39,
+      "title": "Ram Sita Ram",
+      "artist": "Karthik, Sachet Tandon",
+      "youtubeUrl": "https://youtu.be/abADPCOHOpw?si=V1Sc8wrptgDeQmLA",
+      "imageUrl": "https://i.ytimg.com/vi/Tl4bQBfOtbg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhrS2bcHu6mVkaATFGp5rsSXPRyQ"
+    },
+    {
+      "id": 40,
+      "title": "Dash Song",
+      "artist": "Chandan Shetty",
+      "youtubeUrl": "https://youtu.be/qSj5lSGBjQk?si=3riuu-CyOAb_dHqe",
+      "imageUrl": "https://c.saavncdn.com/326/Dash-From-Suthradaari-Kannada-2022-20221226171633-500x500.jpg"
+    }
+  ],
+  "hindiSongs": [
+    {
+      "id": 41,
+      "title": "Besharam Rang",
+      "artist": "Shilpa Rao",
+      "youtubeUrl": "https://youtu.be/huxhqphtDrM?si=7-lHw3eFpeVQZ1PV",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f/Besharam_Rang_song.jpg"
+    },
+    {
+      "id": 42,
+      "title": "Jhoome Jo Pathaan",
+      "artist": "Arijit Singh",
+      "youtubeUrl": "https://youtu.be/YxWlaYCA8MU?si=Sqi_Jy_Pqvcl8H1V",
+      "imageUrl": "https://i.ytimg.com/vi/YxWlaYCA8MU/maxresdefault.jpg"
+    },
+    {
+      "id": 43,
+      "title": "Show Me The Thumka",
+      "artist": "Sunidhi Chauhan",
+      "youtubeUrl": "https://youtu.be/7TITTxxtA88?si=zQYWn8pMVo6Hc63b",
+      "imageUrl": "https://c.saavncdn.com/276/Show-Me-The-Thumka-From-Tu-Jhoothi-Main-Makkaar-Hindi-2023-20230221140558-500x500.jpg"
+    },
+    {
+      "id": 44,
+      "title": "Tere Pyaar Mein",
+      "artist": " Arijit & Nikhita Gandhi ",
+      "youtubeUrl": "https://youtu.be/zBlklssMFEo?si=uK8GyJJQcZCAArqg",
+      "imageUrl": "https://c.saavncdn.com/367/Tere-Pyaar-Mein-From-Tu-Jhoothi-Main-Makkaar-Hindi-2023-20230203140532-500x500.jpg"
+    },
+    {
+      "id": 45,
+      "title": "Rabba Janda",
+      "artist": "Jubin Nautiyal",
+      "youtubeUrl": "https://youtu.be/KfFbnOXWt4A?si=LfZJBIYTFKvsz-WR",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/fa/bd/dcfabdc5-a4c1-2b39-bdd0-02cc778d1e5b/840214465437.png/1200x1200bf-60.jpg"
+    },
+    {
+      "id": 46,
+      "title": "Besharam Rang",
+      "artist": "Shilpa Rao",
+      "youtubeUrl": "https://youtu.be/huxhqphtDrM?si=7-lHw3eFpeVQZ1PV",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f/Besharam_Rang_song.jpg"
+    },
+    {
+      "id": 47,
+      "title": "Jhoome Jo Pathaan",
+      "artist": "Arijit Singh",
+      "youtubeUrl": "https://youtu.be/YxWlaYCA8MU?si=Sqi_Jy_Pqvcl8H1V",
+      "imageUrl": "https://i.ytimg.com/vi/YxWlaYCA8MU/maxresdefault.jpg"
+    },
+    {
+      "id": 48,
+      "title": "Show Me The Thumka",
+      "artist": "Sunidhi Chauhan",
+      "youtubeUrl": "https://youtu.be/7TITTxxtA88?si=zQYWn8pMVo6Hc63b",
+      "imageUrl": "https://c.saavncdn.com/276/Show-Me-The-Thumka-From-Tu-Jhoothi-Main-Makkaar-Hindi-2023-20230221140558-500x500.jpg"
+    },
+    {
+      "id": 49,
+      "title": "Tere Pyaar Mein",
+      "artist": " Arijit & Nikhita Gandhi ",
+      "youtubeUrl": "https://youtu.be/zBlklssMFEo?si=uK8GyJJQcZCAArqg",
+      "imageUrl": "https://c.saavncdn.com/367/Tere-Pyaar-Mein-From-Tu-Jhoothi-Main-Makkaar-Hindi-2023-20230203140532-500x500.jpg"
+    },
+    {
+      "id": 50,
+      "title": "Rabba Janda",
+      "artist": "Jubin Nautiyal",
+      "youtubeUrl": "https://youtu.be/KfFbnOXWt4A?si=LfZJBIYTFKvsz-WR",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/fa/bd/dcfabdc5-a4c1-2b39-bdd0-02cc778d1e5b/840214465437.png/1200x1200bf-60.jpg"
+    }
+  ]
+}

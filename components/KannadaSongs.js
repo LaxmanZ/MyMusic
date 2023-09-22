@@ -25,7 +25,7 @@ const KannadaSongs = () => {
           marginTop: 10,
           marginLeft: 10,
           marginBottom: 20,
-          color: 'white'
+          color: 'white',
         }}
       >
         Kannada Songs
@@ -39,10 +39,18 @@ const KannadaSongs = () => {
           >
             <Image
               source={{ uri: song.imageUrl }}
-              style={{ width: 130, height: 130, borderRadius: 10 }}
+              style={{
+                width: 130,
+                height: 130,
+                borderRadius: 10,
+                objectFit: 'cover',
+                marginBottom: 2,
+              }}
             />
-            <Text style={{color: 'white'}}>{song.title}</Text>
-            <Text style={{color: 'white'}}>{song.artist}</Text>
+            <Text style={{ color: 'white', marginBottom: 2 }}>
+              {song.title}
+            </Text>
+            <Text style={{ color: 'white' }}>{song.artist}</Text>
           </TouchableOpacity>
         ))}
       </ScrollView>

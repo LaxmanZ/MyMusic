@@ -23,6 +23,7 @@ const MostPlayedSongs = () => {
           fontWeight: 'bold',
           fontSize: 20,
           marginTop: 10,
+          marginLeft: 10,
           marginBottom: 20,
           color: 'white',
         }}

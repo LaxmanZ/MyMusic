@@ -11,10 +11,7 @@ export default function SettingsScreen({ navigation }) {
         backgroundColor: 'black',
       }}
     >
-      <Text
-        onPress={() => navigation.navigate('Home')}
-        style={{ fontSize: 26, fontWeight: 'bold', color: 'white' }}
-      >
+      <Text style={{ fontSize: 26, fontWeight: 'bold', color: 'white' }}>
         Settings Screen
       </Text>
     </View>

@@ -38,6 +38,7 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
     marginBottom: 12,
+    marginLeft: 10,
     color: 'white',
   },
 });

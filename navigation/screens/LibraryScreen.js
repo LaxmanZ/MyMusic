@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { View, Text } from 'react-native';
+import { View, Text, TouchableOpacity } from 'react-native';
 
 export default function LibraryScreen({ navigation }) {
   return (
@@ -11,12 +11,33 @@ export default function LibraryScreen({ navigation }) {
         backgroundColor: 'black',
       }}
     >
-      <Text
-        onPress={() => navigation.navigate('Home')}
-        style={{ fontSize: 26, fontWeight: 'bold', color: 'white' }}
+      <View
+        style={{
+          flex: 1,
+          justifyContent: 'center',
+          alignItems: 'center',
+        }}
       >
-        Library Screen
-      </Text>
+        <Text style={{ color: 'white', fontSize: 25, textAlign: 'center',marginBottom: 5 }}>
+          Add Music and Podcasts
+        </Text>
+        <Text style={{ color: 'white', textAlign: 'center' }}>
+          Collect Your Favorites so that you can Listen
+          <Text> whenever You want</Text>
+        </Text>
+        <TouchableOpacity
+          style={{
+            backgroundColor: 'white',
+            padding: 10,
+            borderRadius: 5,
+            marginTop: 20,
+          }}
+        >
+          <Text style={{ color: 'black', textAlign: 'center', fontSize: 15 }}>
+            Add Playlist
+          </Text>
+        </TouchableOpacity>
+      </View>
     </View>
   );
 }

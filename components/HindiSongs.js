@@ -24,6 +24,7 @@ const HindiSongs = () => {
           fontSize: 20,
           marginTop: 10,
           marginBottom: 20,
+          marginLeft: 10,
           color: 'white',
         }}
       >

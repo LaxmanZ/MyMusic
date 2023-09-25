@@ -48,4 +48,4 @@ Use an Android or iOS emulator, or scan the QR code using the Expo Go app to ope
 
 Thank You 
 
-if You are looking to Hire. Please Contact me : laxmanbhajantri547@gmail.com
+if You are looking to Hire reactjs/react-native developer. Please Contact me : laxmanbhajantri547@gmail.com
